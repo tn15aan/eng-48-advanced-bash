@@ -1,0 +1,3 @@
+.vagrant
+secret_ssh_key
+# secret* - anything with secret first
